@@ -10,7 +10,7 @@
 
 ## 💻 Descrição do projeto 
 
-O Dicce game é um jogo de dados onde quem tem o maior número de pontos é o vencedor
+O Dicce game é um jogo de dados, entre dois jogadores, onde quem tem o maior número de pontos no dado é o vencedor
  
  <br>
 
